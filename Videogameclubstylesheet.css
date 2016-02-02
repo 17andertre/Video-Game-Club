@@ -1,0 +1,35 @@
+body{
+    margin:auto;
+}
+h1{
+    text-align: center;
+}
+.browser{ 
+    text-align: center;
+    background:black;
+    color:white;
+    margin:auto;
+    width:68%;
+    margin-bottom:50px;
+
+}
+.left{
+float:left;
+margin-left:250px;
+}
+.right{
+float:right;
+margin-right:280px;
+}
+#lefttext{
+
+
+}
+#righttext{
+
+}
+#request{
+color:grey;
+
+}
+
