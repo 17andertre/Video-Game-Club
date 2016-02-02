@@ -1,0 +1,45 @@
+body {
+	background-color: #fffff
+	text-align: center;
+}
+h2  {
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin: auto;
+	width: 68%;
+}
+h1  {
+	text-align: center;
+}
+#logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#poke {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;	
+}
+	
+h3 {	
+	text-align: center;
+}
+	
+#mar {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+	
+#ssb {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+p {
+	text-align: center;
+	position: relative;
+	top: 100px
+}
