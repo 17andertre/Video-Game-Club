@@ -1,0 +1,28 @@
+#menubar {
+
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin: auto;
+	width: 70%;
+}
+
+body {
+
+	text-align: center;
+	
+}
+
+#menubutton {
+
+	color: grey;
+	
+	}
+	
+#bottomtext {
+
+	text-align: center;
+	position: relative;
+	top: 200px;
+	
+	}

@@ -11,6 +11,8 @@ h1{
     margin:auto;
     width:68%;
     margin-bottom:50px;
+    text-decoration:none;
+    color:white;
 
 }
 .left{
@@ -26,10 +28,12 @@ margin-right:280px;
 
 }
 #righttext{
-
+	color: pink;
 }
 #request{
 color:grey;
 
 }
+
+
 
